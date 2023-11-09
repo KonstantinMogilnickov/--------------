@@ -73,7 +73,7 @@
     padding-top: 25px;
 }
 
-.card-link .sneaker{
+ .sneaker{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -83,7 +83,7 @@
     background: white;
 }
 
-.card-link .container__image {
+ .container__image {
     width: 100%;
 }
 
@@ -124,8 +124,7 @@
 
 .footer{
     min-height: 142px;
-    background-color:#000;
-    
+    background-color:#000;  
 }
 
 .footer-menu-link{
@@ -185,11 +184,9 @@
 
 .container-card{
     background-color:white;
-    
     max-width: 1140px;
     border-radius: 50px;
-    min-height: 1000px;
-    
+    min-height: 1000px;   
 }
 
 .card-section{
@@ -274,6 +271,7 @@ hr .card-line{
     font-weight: 400;
     line-height: normal;
 }
+
 
 @media screen and (max-width:768px){
     .content-container{
