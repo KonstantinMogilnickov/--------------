@@ -243,8 +243,6 @@
     line-height: 100%;
 }
 
-
-
 .main-text-descr{
     display: flex;
     flex-direction: column;
@@ -326,8 +324,6 @@ hr .card-line{
         align-items:center
     }
 
-    
-
     .footer-logo{
         padding-bottom: 25px;
     }
@@ -388,12 +384,10 @@ hr .card-line{
         border-radius:none;
     }
     
-    /* Анимация возвращения карточки назад */
     .card-link:not(:hover){ 
         transform: none;
         transition: none;
     }
-
 
 }
 
